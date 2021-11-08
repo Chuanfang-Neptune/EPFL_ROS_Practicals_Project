@@ -6,7 +6,7 @@
 
 > [MICRO-453 Robotics practicals](https://edu.epfl.ch/coursebook/fr/robotics-practicals-MICRO-453), 2021 Spring
 >
-> **Students: [Chuanfang Ning](https://github.com/Chuanfang-Neptune), [Jianhao Zheng](https://github.com/Jianhao-zheng), Yujie He**
+> **Students: [Chuanfang Ning], [Jianhao Zheng](https://github.com/Jianhao-zheng), [Yujie He](https://github.com/hibetterheyj)**
 >
 > **Example page**: https://go.epfl.ch/ros_basics_final_2021
 >
